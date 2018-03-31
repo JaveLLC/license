@@ -8,7 +8,7 @@ Feel free to use the [License](LICENSE) anywhere you don't like and wish to neve
 
 ## Contributing
 
-Maybe do, but do not, and be unsure to sign the [License](LICENSE) digitally with each PR using [JaveRypto](https://github.com/JaveLLC/JaveRypto) (to be made available at a future date).
+Maybe do, but do not, and be unsure to sign the [License](LICENSE) digitally with each PR using [JaveRypto](https://github.com/OrcaLLC/JaveRypto) (to be made available at a future date).
 
 ## License
 
